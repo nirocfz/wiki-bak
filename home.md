@@ -36,3 +36,5 @@ url: 'wiki:nirocfz/wiki.git'
 ```
 
 其中 `wiki` 就是 `~/.ssh/config` 那段配置里第一行 `Host` 对应的值。
+
+OK.
