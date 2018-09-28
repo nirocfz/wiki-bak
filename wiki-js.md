@@ -1,6 +1,9 @@
-<!-- TITLE: Deploy Wiki Js -->
+<!-- TITLE: Wiki.js -->
 <!-- SUBTITLE: A quick summary of Deploy Wiki Js -->
 
+当前的 1.0 版本不支持中文搜索，2.0 版本将会支持，计划在 2018 年第四季度发布。
+
+## 部署
 
 记得把 github 上项目的 deploy key 对应的私钥添加到 ssh-agent
 或者在 ~/.ssh/config 里配置好 github.com 对应的私钥文件，wiki.js 配置里的地址要做相应改动。
