@@ -1,5 +1,5 @@
 <!-- TITLE: Wiki.js -->
-<!-- SUBTITLE: A quick summary of Deploy Wiki Js -->
+<!-- SUBTITLE: Notes of Wiki Js -->
 
 当前的 1.0 版本不支持中文搜索，2.0 版本将会支持，计划在 2018 年第四季度发布。
 
