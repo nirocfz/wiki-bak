@@ -3,5 +3,5 @@
 
 # 书签
 
-[Atom](https://fixatom.com)
-[自由人的 BLOG](https://ifttl.com)
+* [Atom](https://fixatom.com)
+* [自由人的 BLOG](https://ifttl.com)
