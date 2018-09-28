@@ -9,3 +9,6 @@
 
 * item1
 * item2
+
+[wiki.js](/wiki-js)
+[书签](/bookmarks)
