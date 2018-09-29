@@ -20,11 +20,29 @@
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
 * [Koa](https://koajs.com)
 
-### 工具
+### 开发工具
 
 * [Jenkins](https://jenkins.io/doc/)
 
 
 ## 辅助工具
 
-* [Codelf 变量命名神器](https://unbug.github.io/codelf/)
+* [Codelf](https://unbug.github.io/codelf/) 变量命名神器
+* [Picular](https://picular.co/) Google, but for colors
+
+# 日常工具
+* [Gmail](https://mail.google.com/)
+* [WorkFlowy](https://workflowy.com/)
+* [Todoist](https://todoist.com)
+* [Pocket Casts](https://play.pocketcasts.com)
+* [写匠](http://www.aiwriter.cn)
+
+## 壁纸、图片
+
+* [Simple Desktops](http://simpledesktops.com/)
+* [Unsplash](https://unsplash.com/)
+* [Wallheaven](https://alpha.wallhaven.cc/)
+
+## 杂七杂八
+
+* [I know what you download](https://iknowwhatyoudownload.com/en/peer/)
