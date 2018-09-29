@@ -1,11 +1,17 @@
 <!-- TITLE: Wiki.js -->
 <!-- SUBTITLE: Notes of Wiki Js -->
 
+# [Wiki.js](https://wiki.js.org/)
 当前的 1.0 版本不支持中文搜索，2.0 版本将会支持，计划在 2018 年第四季度发布。
+
+见 [Does the search support chinese #520](https://github.com/Requarks/wiki/issues/520)。
+
+> Not in 1.x, but it will be in 2.0.
+
 
 ## 部署
 
-按照官方文档操作即可，最后与 github 仓库同步的配置上，有点坑。其实这部分在官方文档里也写了，只是在安装流程中配置完成后，还需要手工去修改配置文件。
+按照[官方文档](https://docs.requarks.io/wiki/install/installation)操作即可，最后与 github 仓库同步的配置上，有点坑。其实这部分在官方文档里也写了，只是在安装流程中配置完成后，还需要手工去修改配置文件。
 
 ### 与 github 仓库同步
 
