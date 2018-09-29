@@ -33,3 +33,4 @@
 ## 杂七杂八
 
 * [I know what you download](https://iknowwhatyoudownload.com/en/peer/)
+* [CoinMarketCap](https://coinmarketcap.com/)
