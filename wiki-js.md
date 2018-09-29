@@ -1,7 +1,6 @@
 <!-- TITLE: Wiki.js -->
-<!-- SUBTITLE: Notes of Wiki Js -->
+<!-- SUBTITLE: Notes of Wiki.js -->
 
-# [Wiki.js](https://wiki.js.org/)
 当前的 1.0 版本不支持中文搜索，2.0 版本将会支持，计划在 2018 年第四季度发布。
 
 见 [Does the search support chinese #520](https://github.com/Requarks/wiki/issues/520)。
