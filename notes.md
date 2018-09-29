@@ -3,4 +3,5 @@
 
 # 笔记
 
-[Tips](/notes/tips)
+* [Tips](/notes/tips)
+* [Posts](/notes/posts)
