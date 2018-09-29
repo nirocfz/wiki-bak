@@ -1,4 +1,4 @@
-<!-- TITLE: 书签 -->
+<!-- TITLE: Bookmarks -->
 <!-- SUBTITLE: 收集各种链接 -->
 
 # 独立博客
