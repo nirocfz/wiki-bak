@@ -4,6 +4,8 @@
 # 首页
 还在摸索、尝试怎么组织 URL，暂时还是“扁平化吧。
 
+这玩意是刷 github 绿点的“利器”。
+
 * [书签](/bookmarks)
 * [wiki.js](/wiki-js)
 
