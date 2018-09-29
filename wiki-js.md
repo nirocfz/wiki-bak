@@ -5,6 +5,8 @@
 
 ## 部署
 
+### 与 github 仓库同步
+
 记得把 github 上项目的 deploy key 对应的私钥添加到 ssh-agent
 或者在 ~/.ssh/config 里配置好 github.com 对应的私钥文件，wiki.js 配置里的地址要做相应改动。
 
