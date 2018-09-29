@@ -53,7 +53,7 @@
 * [七牛云](https://www.qiniu.com/)
 
 
-# 日常工具
+# 日常
 * [Gmail](https://mail.google.com/)
 * [WorkFlowy](https://workflowy.com/)
 * [Todoist](https://todoist.com)
@@ -66,6 +66,12 @@
 * [Simple Desktops](http://simpledesktops.com/)
 * [Unsplash](https://unsplash.com/)
 * [Wallheaven](https://alpha.wallhaven.cc/)
+
+## 新闻、社区
+
+* [Hacker News](https://news.ycombinator.com/)
+* [V2EX](https://www.v2ex.com/)
+* [豆瓣](https://www.douban.com/)
 
 ## 杂七杂八
 
