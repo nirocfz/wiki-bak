@@ -7,7 +7,7 @@
 * [自由人的 BLOG](https://ifttl.com)
 
 
-[软件开发](/software-development)
+[软件开发](software-development)
 # 日常
 * [Gmail](https://mail.google.com/)
 * [WorkFlowy](https://workflowy.com/)
