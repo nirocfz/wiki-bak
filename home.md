@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Wiki 首页 -->
 
 # 首页
+[Notes](/notes)
+[Bookmarks](/bookmarks)
 
-[书签](/bookmarks)
-[wiki.js](/wiki-js)
 
