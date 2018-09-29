@@ -1,14 +1,8 @@
 <!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Wiki 首页 -->
 
 # Wiki 首页
 
-这是内容
-
-## 二级标题
-
-* item1
-* item2
-
-[wiki.js](/wiki-js)
 [书签](/bookmarks)
+[wiki.js](/wiki-js)
+
