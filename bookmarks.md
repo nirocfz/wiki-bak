@@ -30,12 +30,19 @@
 * [Codelf](https://unbug.github.io/codelf/) 变量命名神器
 * [Picular](https://picular.co/) Google, but for colors
 
+## 云服务
+
+* [Lightsail](https://lightsail.aws.amazon.com)
+* [Vultr](https://www.vultr.com/)
+* [DigitalOcean](https://www.digitalocean.com/)
+
 # 日常工具
 * [Gmail](https://mail.google.com/)
 * [WorkFlowy](https://workflowy.com/)
 * [Todoist](https://todoist.com)
 * [Pocket Casts](https://play.pocketcasts.com)
 * [写匠](http://www.aiwriter.cn)
+* [印象笔记](https://app.yinxiang.com/)
 
 ## 壁纸、图片
 
