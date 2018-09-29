@@ -1,13 +1,14 @@
 <!-- TITLE: Bookmarks -->
 <!-- SUBTITLE: 收集各种链接 -->
 
+# 软件开发
+见[软件开发](/bookmarks/software-development)页面
+
 # 独立博客
 
 * [Atom](https://fixatom.com)
 * [自由人的 BLOG](https://ifttl.com)
 
-# 软件开发
-见[软件开发](/bookmarks/software-development)页面
 
 # 日常
 * [Gmail](https://mail.google.com/)
