@@ -32,9 +32,24 @@
 
 ## 云服务
 
+### 综合
+
+* [Cloudflare](https://www.cloudflare.com/)
+* [腾讯云](https://cloud.tencent.com/)
+* [阿里云](https://cn.aliyun.com/)
+	* [云解析](https://wanwang.aliyun.com/domain/dns/)
+
+### 云主机
+
 * [Lightsail](https://lightsail.aws.amazon.com)
 * [Vultr](https://www.vultr.com/)
 * [DigitalOcean](https://www.digitalocean.com/)
+
+### CDN
+
+* [又拍云](https://www.upyun.com/)
+* [七牛云](https://www.qiniu.com/)
+
 
 # 日常工具
 * [Gmail](https://mail.google.com/)
