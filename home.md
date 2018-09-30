@@ -7,6 +7,7 @@
 这玩意是刷 github 绿点的“利器”。
 
 * [书签](/bookmarks)
+	* [软件开发](/bookmarks/software-development)
 * [wiki.js](/wiki-js)
 
 
