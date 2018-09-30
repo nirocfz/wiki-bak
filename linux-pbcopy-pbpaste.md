@@ -1,6 +1,6 @@
 <!-- TITLE: Linux -->
 
-# TIP
+# Tips and Tricks
 
 ## pbcopy/pbpaste
 
