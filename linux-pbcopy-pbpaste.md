@@ -1,5 +1,7 @@
 <!-- TITLE: Linux -->
 
+# TIP
+
 ## pbcopy/pbpaste
 
 安装 xclip 之后，在 `$HOME/.zshrc` 里添加这两个 `alias` 命令：
