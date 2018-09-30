@@ -8,6 +8,6 @@
 
 * [书签](/bookmarks)
 	* [软件开发](/bookmarks/software-development)
-* [wiki.js](/wiki-js)
+* [Wiki.js](/wiki-js)
 
 
