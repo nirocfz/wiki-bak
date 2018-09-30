@@ -15,6 +15,7 @@
 * [WorkFlowy](https://workflowy.com/)
 * [Todoist](https://todoist.com)
 * [Pocket Casts](https://play.pocketcasts.com)
+	* [Beta](https://playbeta.pocketcasts.com/web/)
 * [写匠](http://www.aiwriter.cn)
 * [印象笔记](https://app.yinxiang.com/)
 
