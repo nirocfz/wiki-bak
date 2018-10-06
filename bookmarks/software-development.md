@@ -30,6 +30,9 @@
 * [IPIP.NET](https://www.ipip.net/)
 	* [IP 查询](https://www.ipip.net/ip.html)
 	* [TraceRoute 查询](https://tools.ipip.net/traceroute.php)
+* 图片压缩
+	* [腾讯智图](https://zhitu.isux.us/)
+	* [ImageOptim](https://imageoptim.com/online)
 
 ### 时间跟踪
 
