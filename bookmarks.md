@@ -19,6 +19,10 @@
 * [写匠](http://www.aiwriter.cn)
 * [印象笔记](https://app.yinxiang.com/)
 
+## 其他工具/应用
+* [Ghost - The Professional Publishing Platform](https://ghost.org/)
+	* [Releases](https://github.com/TryGhost/Ghost/releases)
+
 ## 壁纸、图片
 
 * [Simple Desktops](http://simpledesktops.com/)
