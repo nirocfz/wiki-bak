@@ -27,3 +27,17 @@ ALTER TABLE user1 ADD age TINYINT UNSIGNED NOT NULL DEFAULT 10;
 ALTER TABLE user1 ADD password VARCHAR(32) NOT NULL AFTER username;
 ALTER TABLE user1 ADD truename VARCHAR(20) NOT NULL FIRST;
 ```
+
+## 配置默认 utf8mb4
+
+```
+[client]
+default-character-set = utf8mb4
+
+[mysql]
+default-character-set = utf8mb4
+
+[mysqld]
+character-set-server = utf8mb4
+collation-server = utf8mb4_unicode_ci
+```
