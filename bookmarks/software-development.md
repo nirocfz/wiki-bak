@@ -18,7 +18,7 @@
 	* [Github](https://github.com/pallets/flask)
 	* [文档](http://flask.pocoo.org/docs/)
 
-### 开发工具
+### CI/CD
 
 * [Jenkins](https://jenkins.io/doc/)
 
