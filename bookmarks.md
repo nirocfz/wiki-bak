@@ -33,6 +33,11 @@
 * [Ghost - The Professional Publishing Platform](https://ghost.org/)
 	* [Releases](https://github.com/TryGhost/Ghost/releases)
 
+### 网站工具
+
+* [SimilarWeb](https://www.similarweb.com/)
+* [Alexa](https://www.alexa.com/siteinfo)
+
 ## 壁纸、图片
 
 * [Simple Desktops](http://simpledesktops.com/)
