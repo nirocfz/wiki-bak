@@ -34,6 +34,9 @@
 	* [腾讯智图](https://zhitu.isux.us/)
 	* [ImageOptim](https://imageoptim.com/online)
 
+* 前端公共库 CDN
+	* [jsDelivr](https://www.jsdelivr.com/)
+
 ### 时间跟踪
 
 * [RescueTime](https://www.rescuetime.com/)
