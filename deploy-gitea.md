@@ -98,7 +98,25 @@ gitea web
 访问 http://xx.xx.xx.xx:3000/install ，填入mysql，邮箱，域名，url 等配置项，安装完成后，就可以通过域名访问了（前面先配置好了反向代理）。
 使用内建 ssh 服务器，监听 22 端口。（我的系统的 ssh 端口不是 22，正好让出来给 gitea 用，这样 ssh 协议的 git 仓库地址里就不用带端口号——默认22——好看一点）。
 
-`ctrl-c`终止试运行。用 systemd 以守护进程的方式运行 gitea
+`ctrl-c`终止试运行。
+
+试运行/安装过程中，可能遗漏的或者没出现的配置项：
+
+* 没有配置 gitea 监听的地址，默认是 `0.0.0.0:3000`，为了避免直接暴露到外网，手动去修改 `/var/lib/gitea/custom/conf/app.ini`，在 `[server]` 块添加 `HTTP_ADDR` 配置项。
+* 启用 gitea 内建的 ssh 服务，不用系统的 ssh 服务，并且配置内建 ssh 服务监听 22 端口
+
+```
+# ...
+[server]
+# ...
+HTTP_ADDR        = 127.0.0.1
+START_SSH_SERVER = true
+SSH_PORT         = 22
+# ...
+```
+
+
+用 systemd 以守护进程的方式运行 gitea
 
 ```
 sudo vim /etc/systemd/system/gitea.service
@@ -158,22 +176,4 @@ sudo systemctl start gitea
 `sudo systemctl status gitea` 查看运行状态
 
 日志文件位于 `/var/lib/gitea/log` 目录。
-
-之前试运行/安装过程中，可能没有配置 gitea 监听的地址，默认是 `0.0.0.0:3000`，为了避免直接暴露到外网，手动去修改 `/var/lib/gitea/custom/conf/app.ini`，在 `[server]` 块添加 `HTTP_ADDR` 配置项。
-
-```
-# ...
-[server]
-# ...
-HTTP_ADDR     = 127.0.0.1
-# ...
-```
-
-重启
-
-```
-sudo systemctl restart gitea
-```
-
-`sudo systemctl status gitea` 可以看到 `Serving 127.0.0.1:3000 with pid xxxx`。
 
