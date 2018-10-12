@@ -115,6 +115,17 @@ SSH_PORT         = 22
 # ...
 ```
 
+其他可能需要修改项
+
+```
+[mailer]
+# 有些 VPS 默认禁用了 25 端口，会连不上 SMTP SERVER
+HOST = smtp2525.sendcloud.net:2525
+
+[session]
+# session 仅限 HTTPS
+COOKIE_SECURE = true
+```
 
 用 systemd 以守护进程的方式运行 gitea
 
