@@ -159,3 +159,21 @@ sudo systemctl start gitea
 
 日志文件位于 `/var/lib/gitea/log` 目录。
 
+之前试运行/安装过程中，可能没有配置 gitea 监听的地址，默认是 `0.0.0.0:3000`，为了避免直接暴露到外网，手动去修改 `/var/lib/gitea/custom/conf/app.ini`，在 `[server]` 块添加 `HTTP_ADDR` 配置项。
+
+```
+# ...
+[server]
+# ...
+HTTP_ADDR     = 127.0.0.1
+# ...
+```
+
+重启
+
+```
+sudo systemctl restart gitea
+```
+
+`sudo systemctl status gitea` 可以看到 `Serving 127.0.0.1:3000 with pid xxxx`。
+
