@@ -127,6 +127,8 @@ HOST = smtp2525.sendcloud.net:2525
 COOKIE_SECURE = true
 ```
 
+[配置项列表](https://docs.gitea.io/zh-cn/config-cheat-sheet/)
+
 用 systemd 以守护进程的方式运行 gitea
 
 ```
