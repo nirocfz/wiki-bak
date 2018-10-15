@@ -21,6 +21,7 @@
 
 ## 其他工具/应用
 
+* [EPUB 阅读](https://www.neat-reader.cn/)
 * [语雀](https://www.yuque.com/)
 
 ### Markdown
