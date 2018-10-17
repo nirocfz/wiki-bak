@@ -23,6 +23,7 @@
 
 * [Product Hunt](https://www.producthunt.com/)
 * [Neat Reader - EPUB 阅读器](https://www.neat-reader.cn/)
+* [电子书去 DRM 脱壳工具](http://cn.epubee.com/magic.html)
 * [语雀](https://www.yuque.com/)
 
 
