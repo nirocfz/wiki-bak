@@ -22,9 +22,18 @@
 ## 其他工具/应用
 
 * [Product Hunt](https://www.producthunt.com/)
+* [语雀](https://www.yuque.com/)
+
+
+### 电子书
+
+* [书伴](https://bookfere.com/)
 * [Neat Reader - EPUB 阅读器](https://www.neat-reader.cn/)
 * [电子书去 DRM 脱壳工具](http://cn.epubee.com/magic.html)
-* [语雀](https://www.yuque.com/)
+* [我的小书屋](http://mebook.cc/) [备份站点](http://www.shuwu.mobi/)
+* [mLook 看书](https://www.mlook.mobi/)
+
+
 
 
 ### Markdown
