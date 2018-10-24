@@ -2,7 +2,7 @@
 <!-- SUBTITLE: 收藏与编程、软件开发相关的链接 -->
 
 # 软件开发
-## 开发文档
+## 开发文档/网站
 
 各种开发文档汇总
 
@@ -18,9 +18,20 @@
 	* [Github](https://github.com/pallets/flask)
 	* [文档](http://flask.pocoo.org/docs/)
 
+#### React UI Framework
+
+* [Evergreen](https://evergreen.segment.com/)
+* [Ant Design](https://ant.design/)
+* [Semantic UI](https://react.semantic-ui.com/)
+
 ### CI/CD
 
+* [Drone](https://drone.io/)
 * [Jenkins](https://jenkins.io/doc/)
+
+### 其他
+
+* [Git 飞行规则](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
 
 ## 辅助工具
