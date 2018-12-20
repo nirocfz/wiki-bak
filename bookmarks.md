@@ -57,6 +57,10 @@
 * [Unsplash](https://unsplash.com/)
 * [Wallheaven](https://alpha.wallhaven.cc/)
 
+## 图片处理
+
+* [去除人像图片的背景](https://www.remove.bg/)
+
 ## 新闻、社区
 
 * [Hacker News](https://news.ycombinator.com/)
