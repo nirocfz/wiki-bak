@@ -60,6 +60,7 @@
 ## 图片处理
 
 * [去除人像图片的背景](https://www.remove.bg/)
+* [压缩图片](https://imageoptim.com/online)
 
 ## 新闻、社区
 
