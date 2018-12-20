@@ -20,6 +20,7 @@
 
 #### React UI Framework
 
+* [Material UI](https://material-ui.com/)
 * [Evergreen](https://evergreen.segment.com/)
 * [Ant Design](https://ant.design/)
 * [Semantic UI](https://react.semantic-ui.com/)
